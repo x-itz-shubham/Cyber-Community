@@ -1,0 +1,650 @@
+
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+
+Backspace Pressed
+
+Backspace Pressed
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.esc: <27>> Pressed.
+y
+
+Backspace Pressed
+y
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+True<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+
+Backspace Pressed
+<Key.ctrl_l: <162>> Pressed.
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+<Key.down: <40>> Pressed.
+
+Backspace Pressed
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.shift: <160>> Pressed.
+#<Key.down: <40>> Pressed.
+<Key.right: <39>> Pressed.
+<Key.right: <39>> Pressed.
+<Key.right: <39>> Pressed.
+<Key.right: <39>> Pressed.
+<Key.left: <37>> Pressed.
+
+Backspace Pressed
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+
+Backspace Pressed
+
+Backspace Pressed
+dev sec
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+sec.com
+thedevsec.com
+thedeadsec.com
+hackerone
+crowd<Key.shift: <160>> Pressed.
+Shubham <Key.shift: <160>> Pressed.
+Chopra
+Tab Pressed
+itz<Key.shift: <160>> Pressed.
+_shubhamchoprashsu
+Backspace Pressed
+
+Backspace Pressed
+ubhea
+Backspace Pressed
+
+Backspace Pressed
+am1309<Key.shift: <160>> Pressed.
+@gmail.com<Key.shift: <160>> Pressed.
+Uknowit<Key.shift: <160>> Pressed.
+$m3<Key.shift: <160>> Pressed.
+Uknowit<Key.shift: <160>> Pressed.
+$m36112000
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+Uknowit<Key.shift: <160>> Pressed.
+$m36112000
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+<Key.shift: <160>> Pressed.
+Uknowit<Key.shift: <160>> Pressed.
+$m36112000ch<Key.shift: <160>> Pressed.
+Uknowit<Key.shift: <160>> Pressed.
+$m36112000crowd 
+str<Key.down: <40>> Pressed.
+
+
+Backspace Pressed
+nugcrowd<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.right: <39>> Pressed.
+
+Backspace Pressed
+b<Key.right: <39>> Pressed.
+<Key.right: <39>> Pressed.
+<Key.right: <39>> Pressed.
+<Key.right: <39>> Pressed.
+<Key.right: <39>> Pressed.
+<Key.right: <39>> Pressed.
+<Key.right: <39>> Pressed.
+
+ininitgriti
+<Key.shift: <160>> Pressed.
+itz<Key.shift: <160>> Pressed.
+_shubham
+Tab Pressed
+<Key.shift: <160>> Pressed.
+Shubham
+Tab Pressed
+<Key.shift: <160>> Pressed.
+Choprachoprashubham1309<Key.shift: <160>> Pressed.
+@gmail.com<Key.shift: <160>> Pressed.
++91 8264554928
+Backspace Pressed
+choprashuh
+Backspace Pressed
+bha,
+Backspace Pressed
+m1309<Key.shift: <160>> Pressed.
+@gmaio
+Backspace Pressed
+l.comchromewe<Key.down: <40>> Pressed.
+
+hotsh
+Backspace Pressed
+pot<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+
+tr
+Backspace Pressed
+
+Backspace Pressed
+bug
+bug
+Backspace Pressed
+biug
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+ugcrowd
+shanu738
+
+<Key.shift: <160>> Pressed.
+Shu<Key.shift: <160>> Pressed.
+INdi
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+india457
+hacker101<Key.down: <40>> Pressed.
+
+cooki
+457
+choprashubham1309<Key.shift: <160>> Pressed.
+@gmail.comctf<Key.down: <40>> Pressed.
+
+grabify<Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+
+instagr
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+ch<Key.shift: <160>> Pressed.
+Uknowit<Key.shift: <160>> Pressed.
+$m36112000<Key.ctrl_l: <162>> Pressed.
+
+what is <Key.down: <40>> Pressed.
+<Key.down: <40>> Pressed.
+
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.num_lock: <144>> Pressed.
+<Key.num_lock: <144>> Pressed.
+<Key.num_lock: <144>> Pressed.
+<Key.num_lock: <144>> Pressed.
+acha
+bur
+hun uthi hai
+tee ehni der di kr rahe c=
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+i c fir
+fingersd
+Backspace Pressed
+
+proc
+Backspace Pressed
+x127.0.0.180
+Backspace Pressed
+8
+Backspace Pressed
+<Key.right: <39>> Pressed.
+80<Key.num_lock: <144>> Pressed.
+<Key.num_lock: <144>> Pressed.
+<Key.num_lock: <144>> Pressed.
+<Key.num_lock: <144>> Pressed.
+foxy proc
+Backspace Pressed
+xy<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+<Key.left: <37>> Pressed.
+
+Backspace Pressed
+<Key.shift_r: <161>> Pressed.
+
+http<Key.shift_r: <161>> Pressed.
+://
+Backspace Pressed
+/burp
+\
+cer
+fingers
+
+<Key.shift: <160>> Pressed.
+FCS<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+%1667sc
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+how to scree<Key.down: <40>> Pressed.
+
+<Key.down: <40>> Pressed.
+
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+ghow to
+game
+Backspace Pressed
+
+game mode
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+gkal nhi laahi 
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+yi l
+Backspace Pressed
+d
+Backspace Pressed
+
+Backspace Pressed
+ di <Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+?
+ai
+Backspace Pressed
+
+Backspace Pressed
+hain ohna ne nhi k
+Backspace Pressed
+rkhi
+Backspace Pressed
+ya <Key.shift: <160>> Pressed.
+?
+<Key.shift: <160>> Pressed.
+GNA%1433
+
+<Key.ctrl_l: <162>> Pressed.
+rajat<Key.ctrl_l: <162>> Pressed.
+
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+g<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+gna<Key.ctrl_l: <162>> Pressed.
+
+Backspace Pressed
+<Key.ctrl_l: <162>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+<Key.shift: <160>> Pressed.
+FCS%1667
+80<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+g
+
+Backspace Pressed
+bur
+burp
+hnji
+fingersto
+Backspace Pressed
+
+Backspace Pressed
+store.com
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+proxy
+fir
+Backspace Pressed
+nger
+burpproxyburp
+google.com
+
+Backspace Pressed
+finger<Key.right: <39>> Pressed.
+
+<Key.shift_r: <161>> Pressed.
+
+<Key.ctrl_l: <162>> Pressed.
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+
+Backspace Pressed
+<Key.ctrl_l: <162>> Pressed.
+<Key.ctrl_l: <162>> Pressed.
+
+derjetter<Key.shift: <160>> Pressed.
+FCS%1667
+Backspace Pressed
+3
+Backspace Pressed
+
+Backspace Pressed
+22<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+<Key.cmd: <91>> Pressed.
+g<Key.f5: <116>> Pressed.
+<Key.f5: <116>> Pressed.
+<Key.f6: <117>> Pressed.
+<Key.f5: <116>> Pressed.
+<Key.f5: <116>> Pressed.
